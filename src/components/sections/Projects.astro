@@ -57,4 +57,22 @@ import Project from "../sections/projects/Project.astro";
     font-weight: 500;
     padding: 0.2rem 0.6rem;
   }
+
+  @media (max-width: 930px) {
+    .project-container {
+      flex-direction: column;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .project-container {
+      flex-direction: row;
+    }
+  }
+
+  @media (max-width: 557px) {
+    .project-container {
+      flex-direction: column;
+    }
+  }
 </style>

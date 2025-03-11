@@ -143,7 +143,7 @@ export const skills = [
 
 export const projects = [
   {
-    img: "../../../../public/projects/furniro.png",
+    img: "../../../../projects/furniro.png",
     title: "Furniro",
     link: "https://furniro-archis.netlify.app/",
     github: "https://github.com/ozcsert/Furniro",
@@ -158,7 +158,7 @@ export const projects = [
     ],
   },
   {
-    img: "../../../../public/projects/morent.png",
+    img: "../../../../projects/morent.png",
     title: "Morent Car Rental",
     github: "https://github.com/ozcsert/Morent",
 
@@ -177,7 +177,7 @@ export const projects = [
     ],
   },
   {
-    img: "../../../../public/projects/dashes.jpg",
+    img: "../../../../projects/dashes.jpg",
     title: "Dashes App [WORK IN PROGRESS]",
 
     github: "https://github.com/ozcsert/Dashes",
