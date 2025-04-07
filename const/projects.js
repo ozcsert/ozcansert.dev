@@ -162,7 +162,7 @@ export const projects = [
     title: "Morent Car Rental",
     github: "https://github.com/ozcsert/Morent",
 
-    link: "https://ecommerce-stripe-763m.vercel.app/",
+    link: "https://morent-ozcan.netlify.app/",
     description: `Car Rental website with deep api filtering, creative theming, form validation `,
     technologies: [
       {
